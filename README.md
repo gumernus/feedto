@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> OpenSource social network with a minimalist design and really great customization options.
+<p align="center"> OpenSource personal "blog" with a minimalist design and really great customization options.
     <br> 
 </p>
 
