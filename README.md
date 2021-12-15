@@ -62,4 +62,3 @@ npm run build
 
 - [@Gumernus](https://github.com/gumernus) - All work xd
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
